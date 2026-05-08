@@ -15,3 +15,24 @@
 body {
   background-color: #e5e5e5;
 }
+
+/* main container styles */
+.container {
+  max-width: 1200px;
+  min-width: 300px;
+  width: 100%;
+  margin-inline: auto;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.col-1, 
+.col-2 {
+  overflow: hidden;
+}
+
+/* column 1 styles */
+.col-1 {
+  
+}
